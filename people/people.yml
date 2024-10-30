@@ -23,4 +23,14 @@ people:
       mal_id:
       anilist_id: "112441"
       metron_id: 
-    image_path: "people/Shimimaru.jpg"
+    image_path: "people/Shimimaru.webp"
+  - name: "Stephen King"
+    aliases: ["Richard Bachman", "John Swithen", "Beryl Evans"]
+    ids:
+      hardcover_id: "stephen-king"
+      amazon_id: "B000AQ0842"
+      comicvine_id: "stephen-king/4040-41925/"
+      mal_id:
+      anilist_id:
+      metron_id: "4766"
+    image_path: "people/stephen-king.webp"

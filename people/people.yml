@@ -1,4 +1,14 @@
 people:
+- name: Kumiko Saiki
+  aliases: []
+  ids:
+    hardcover_id: 
+    amazon_id: 
+    comicvine_id: 
+    mal_id: 
+    anilist_id: 99314
+    metron_id: 
+  image_path: people/Kumiko Saiki.webp
 - name: Jordan Rosato
   aliases: []
   ids:
